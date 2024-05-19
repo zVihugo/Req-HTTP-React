@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 4,
+      "name": "Corbata",
+      "price": 5
+    },
+    {
+      "name": "suporte",
+      "price": "120",
+      "id": 6
+    },
+    {
+      "id": 8,
+      "name": "asd",
+      "price": "5"
+    },
+    {
+      "id": 9,
+      "name": "asd",
+      "price": "5"
+    },
+    {
+      "id": 10,
+      "name": "asd",
+      "price": "5"
+    }
+  ]
+}
